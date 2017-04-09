@@ -144,7 +144,7 @@ function insertEvent(auth) {
             var event = {
                 'summary': fileDataToObject[i].Name,
                 'location': '800 Howard St., San Francisco, CA 94103',
-                'description': fileDataToObject[i].Desription,
+                'description': fileDataToObject[i].Description,
                 'start': {
                     'dateTime': fileDataToObject[i].Date,
                     'timeZone': 'America/Los_Angeles',
