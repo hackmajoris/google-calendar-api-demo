@@ -1,1 +1,1 @@
-A simple example which create events on Google Calendar using a Excel file.
+A simple example which creates events on Google Calendar using a Excel file.
